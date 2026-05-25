@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InternakAccessModifier.cs" />
+    <Compile Include="PotectedAccessModifier-EG.cs" />
     <Compile Include="PrivateAccessModifier-eg-BANK.cs" />
     <Compile Include="PrivateAccessModifier.cs" />
     <Compile Include="Properities.cs" />
